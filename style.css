@@ -1,0 +1,11 @@
+*{
+  display: block;
+}
+
+header{
+  display: none;
+}
+
+title{
+  display: none;
+}
